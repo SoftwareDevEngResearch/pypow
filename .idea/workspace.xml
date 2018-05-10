@@ -14,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/__init__.py">
+      <file leaf-file-name="Thermodynamic_Measures.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pypow/thermodynamics/Thermodynamic_Measures.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -24,32 +24,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="combustion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thermodynamics/combustion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cylinder_Geometry.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thermodynamics/Cylinder_Geometry.py">
+        <entry file="file://$PROJECT_DIR$/pypow/thermodynamics/Cylinder_Geometry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-              <folding>
-                <element signature="e#300#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thermodynamic_Measures.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thermodynamics/Thermodynamic_Measures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-153">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -117,6 +95,12 @@
             <path>
               <item name="GFR_engine_thermodynamic_sim" type="b2602c69:ProjectViewProjectNode" />
               <item name="GFR_engine_thermodynamic_sim" type="462c0819:PsiDirectoryNode" />
+              <item name="pypow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GFR_engine_thermodynamic_sim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GFR_engine_thermodynamic_sim" type="462c0819:PsiDirectoryNode" />
+              <item name="pypow" type="462c0819:PsiDirectoryNode" />
               <item name="thermodynamics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -249,9 +233,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-          <folding>
-            <element signature="e#300#318#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -283,9 +265,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
-          <folding>
-            <element signature="e#300#318#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -325,9 +305,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-          <folding>
-            <element signature="e#300#318#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pypow/thermodynamics/Thermodynamic_Measures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pypow/thermodynamics/Cylinder_Geometry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
